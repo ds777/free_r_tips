@@ -1,6 +1,6 @@
 # R TIPS ----
 # TIP 035 | patchwork: combine ggplots into 1 ----
-#
+# VIDEO TUTORIAL: https://youtu.be/_lEwfZbyu48
 # 👉 For Weekly R-Tips, Sign Up Here: https://mailchi.mp/business-science/r-tips-newsletter
 
 # LIBRARIES ----
@@ -36,7 +36,7 @@ gg_tx_timeseries <- txhousing_tbl %>%
     ) +
     theme_minimal() +
     scale_y_continuous(labels = scales::dollar_format()) +
-    labs(y = "", x = "", title = "Median Home Price Over Time")
+    labs(y = "", x = "", title = "(a) Median Home Price Over Time")
 gg_tx_timeseries
 
 # 2.2 Top Cities Ridgeline Plot ----
@@ -106,7 +106,7 @@ gg_tx_map + (gg_tx_timeseries / gg_tx_ridge) +
         title      = "Texas Real-Estate Statistics",
         subtitle   = "The untold secrets of prime-real estate in the Lonestar State.\n",
         tag_levels = "A",
-        tag_prefix = "Fig. ",
+        tag_prefix = "Panel ",
         tag_suffix = ":"
     ) &
     theme(plot.tag.position = c(0, 1),
