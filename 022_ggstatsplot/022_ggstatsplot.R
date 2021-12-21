@@ -1,6 +1,7 @@
 # R TIPS ----
 # TIP 022 | Statistical Plotting with ggstatsplot! ----
-#
+# VIDEO: https://youtu.be/8Em1bCFBMWg
+# PAPER: https://joss.theoj.org/papers/10.21105/joss.03167
 # 👉 For Weekly R-Tips, Sign Up Here: https://mailchi.mp/business-science/r-tips-newsletter
 
 # ggstatsplot: designed for making publication-ready statistical plots
@@ -9,6 +10,7 @@
 
 library(ggstatsplot)
 library(tidyverse)
+library(ggcorrplot)
 
 # DATA PREPARATION ----
 

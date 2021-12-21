@@ -1,5 +1,6 @@
 # R TIPS ----
 # TIP 014 | Intro to PCA in R ----
+# VIDEO: https://youtu.be/X4wsXba_tZI
 # - PCA - Principal Component Analysis
 # - Interactively Visualizing PCA
 #
