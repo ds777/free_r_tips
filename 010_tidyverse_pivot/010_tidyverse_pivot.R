@@ -1,6 +1,6 @@
 # R TIPS ----
 # TIP 010 | Must-Know Tidyverse Features: Pivoting Data ----
-#
+# VIDEO: https://youtu.be/YWByrQIx-uQ
 # 👉 For Weekly R-Tips, Sign Up Here: https://mailchi.mp/business-science/r-tips-newsletter
 
 # LIBRARIES ----

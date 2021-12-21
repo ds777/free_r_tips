@@ -1,6 +1,6 @@
 # R TIPS ----
 # TIP 032 | datapasta: Copy & Paste HTML or Excel Tables ----
-#
+# VIDEO: https://youtu.be/M3h11elq34E
 # 👉 For Weekly R-Tips, Sign Up Here: https://mailchi.mp/business-science/r-tips-newsletter
 
 # LIBRARIES ----

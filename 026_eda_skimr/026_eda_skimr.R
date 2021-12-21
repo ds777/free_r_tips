@@ -1,6 +1,6 @@
 # R TIPS ----
 # TIP 026 | Assess Data Quality with skimr ---
-#
+# VIDEO: https://youtu.be/x23Lrn8smHk
 # 👉 For Weekly R-Tips, Sign Up Here: https://mailchi.mp/business-science/r-tips-newsletter
 
 # skimr: designed for data quality

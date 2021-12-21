@@ -2,7 +2,7 @@
 # TIP 011 | Must-Know Tidyverse Features: Group Split ----
 # - map()
 # - broom + linear regression
-#
+# VIDEO: https://youtu.be/wj_AAs4VC8M
 # 👉 For Weekly R-Tips, Sign Up Here: https://mailchi.mp/business-science/r-tips-newsletter
 
 # LIBRARIES ----

@@ -1,6 +1,6 @@
 # R TIPS ----
 # TIP 009 | Must-Know Tidyverse Features: Summarise + Across ----
-#
+# VIDEO: https://youtu.be/6fEowYTlNT8
 # 👉 For Weekly R-Tips, Sign Up Here: https://mailchi.mp/business-science/r-tips-newsletter
 
 # LIBRARIES ----

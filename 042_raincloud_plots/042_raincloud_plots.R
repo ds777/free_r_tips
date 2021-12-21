@@ -1,6 +1,6 @@
 # R TIPS ----
 # TIP 042 | ggdist: Raincloud Plots ----
-#
+# VIDEO: https://youtu.be/nz2gHnaqX2w
 # 👉 For Weekly R-Tips, Sign Up Here:
 #    https://mailchi.mp/business-science/r-tips-newsletter
 

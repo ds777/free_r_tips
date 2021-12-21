@@ -2,7 +2,7 @@
 # TIP 015 | Intro to Logistic Regression in R ----
 # - Detect Vehicle Age: 1999 vs 2008
 # - Interactively Visualizing PCA
-#
+# - VIDEO: https://youtu.be/Qi-sVE0SWFc
 # 👉 For Weekly R-Tips, Sign Up Here: https://mailchi.mp/business-science/r-tips-newsletter
 
 # LIBRARIES ----
